@@ -1,0 +1,10 @@
+{
+    "username": "jmercie@labsxd.com.mvnodev",
+    "orgId": "00D6s0000008kNgEAI",
+    "accessToken": "de2c3082ac906d27d843f3b5f326497d1a6871b2f323fbb088e137f1236f6cfb3dede52834a302a7ff00431d8327031b18e60cccf3d19f5f8ad82363eaa417269c84eb1d3ee0d03674cfe05973d1a2659a433d469445d79cea88f8bbce1472e2fd7ea6f3165d187c995f0a87f671e4835efd24815133:ee1226327dbe552732801dfaf78b7dcd",
+    "refreshToken": "0cf52abbf9e1c5abb2770c614a941c0670f4eaa7db60a3bc4ca7927a68b4b24babc4ee2e45e7616b3d6d95f1f5a7f0adf814b2714d75f7f4c252d9d7a0843f4c0031b735f9b8fa8129badf2761d0f1a08834ff9283bede27e02b7d3164:a9ab61bc1ca98c02e4ee42f91913e802",
+    "instanceUrl": "https://mvnolabsxd--dev.my.salesforce.com",
+    "loginUrl": "https://test.salesforce.com",
+    "clientId": "PlatformCLI",
+    "isDevHub": false
+}

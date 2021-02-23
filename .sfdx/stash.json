@@ -1,0 +1,12 @@
+{
+    "MDAPI_RETRIEVE": {
+        "jobid": "09S6s000000WHLXEA4",
+        "retrievetargetdir": "/tmp/sdx_sourceRetrieve_pkg_1613680598542"
+    },
+    "SOURCE_DEPLOY": {
+        "jobid": "0Af6s000006qQAyCAM"
+    },
+    "MDAPI_DEPLOY": {
+        "jobid": "0Af6s000005XBHOCA4"
+    }
+}

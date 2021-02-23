@@ -1,0 +1,10 @@
+{
+    "orgId": "00D4x0000030ljmEAA",
+    "accessToken": "c32c340a33c843257aaad47949fb51daf66e2ed04915de84f6d386f399ff76fd9b208270c92b43530c785782ae2d60eb071ade96bde1fb0c0a0e9018cfae00cfd5182849a05eb5f304895aef4b7cac0bba08a7e15c819ff4bc8d73d2531dadec51b72a39c5188b4c44e8c726657af00c69f982d226a2:c8467991c8d31968045392c78336f0c6",
+    "refreshToken": "187e003b8d2333797001aec287cdecafa153846850158a42fbb86f026142acb2916633ed145c7bad30704453cbdbb89c1cdee9378edadd9faa925bc58c023a3e040652fa2d6a51b70a3cc6c11f209ff9116b663b2e528330c86e9e97c5:24e878ea90f6600e5e46714a547c7dd9",
+    "instanceUrl": "https://cunning-fox-ar63y7-dev-ed.my.salesforce.com",
+    "loginUrl": "https://login.salesforce.com",
+    "username": "jmercie@cunning-fox-ar63y7.com",
+    "clientId": "PlatformCLI",
+    "isDevHub": true
+}

@@ -1,0 +1,10 @@
+{
+    "orgId": "00D1100000C6moKEAR",
+    "accessToken": "2b10c2db0c9996f5ec4d1ffc624f824fd56f5074323ed2d1059a0b8d19eaff4de50dd528d21a43f48e6faea479143834a87ef10db50f16e2497a98173615ca764d48010341680723ba3cd7b0eb9f0e24ef29ee269c837eac686b101338feba311e05e9d49e5a734ea2010db70f1314522deab1a37dd8:fdc630a69c4e65ee9accba996ae8ac39",
+    "refreshToken": "4b9ca9197196b5cfbfe894a9451d4d29a099fe83c881e32d3c988e032dd237db773f05fec423067a2415bf8c37b8ed1cbb8fb3adcd8b4d9ca95c70788d80673689411d1120039571802b268c9fe92c2a5dfa034827314889b2b80ec47d:4490919ed78c7f453923dd9dcda81ffe",
+    "instanceUrl": "https://mvnolabsxd--b2bdev.my.salesforce.com",
+    "loginUrl": "https://test.salesforce.com/",
+    "username": "jmercie@labsxd.com.mvnob2bdev",
+    "clientId": "PlatformCLI",
+    "isDevHub": false
+}
